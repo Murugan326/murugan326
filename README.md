@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Murugan
 
 Aspiring Software Engineer  
-
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - BE recent graduate deeply passionate about software development 💻 and eager to contribute to impactful tech projects.
 - 🌱 I'm Sucessfully Completed Python Full Stack Corurse at Qspiders.
 - Social Presence
